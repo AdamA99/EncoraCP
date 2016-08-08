@@ -13,10 +13,10 @@ Benefit from two of the best Web Servers in the market: Nginx and OpenLiteSpeed.
 Deploy a wider range of applications with a choice across RDMS and NoSQL, why limit yourself to just MySQL? when you can have all three!
 
 ### Multiple PHP Versions
-Thanks to OLS, you can now benefit from using multiple PHP instances. PHP (5.2, 5.3, 5.4, 5.5, 5.6 and 7.0) are all available in a matter of clicks.
+Thanks to OLS, you can now benefit from using multiple PHP instances. PHP (5.2, 5.3, 5.4, 5.5, 5.6 and 7.0) are all available in a matter of clicks and the ability to integrate future versions automatically.
 
 ### Offer more than Hosting...
-With EncoraCP you can offer more than hosting, 
+With EncoraCP you can offer more than hosting, including: ShoutCast Radio Hosting, Reverse Proxy Hosting, Subversion Hosting and even Application Hosting.
 
 
 License
