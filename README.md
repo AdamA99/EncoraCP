@@ -1,6 +1,6 @@
 # EncoraCP
 
-Freedom of Choice
+Freedom of Choice...
 
 EncoraCP is a Shared Web Hosting Control Panel. EncoraCP is an advanced Control Panel for Web Hosts who wish to provide their clients with choice, and gives you the freedom to customize and modify it to your needs.
 
