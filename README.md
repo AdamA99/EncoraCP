@@ -15,3 +15,10 @@ Deploy a wider range of applications with a choice across RDMS and NoSQL, why li
 ### Multiple PHP Versions
 Thanks to OLS, you can now benefit from using multiple PHP instances. PHP (5.2, 5.3, 5.4, 5.5, 5.6 and 7.0) are all available in a matter of clicks.
 
+### Offer more than Hosting...
+With EncoraCP you can offer more than hosting, 
+
+
+License
+------
+EncoraCP is MIT Licensed.
